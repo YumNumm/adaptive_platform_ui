@@ -14,7 +14,7 @@ traditional Cupertino widgets for older iOS versions, and Material Design for An
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Berkay Catak' => 'berkaycatak@example.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'adaptive_platform_ui/Sources/adaptive_platform_ui/**/*'
   s.dependency 'Flutter'
   s.platform = :ios, '12.0'
 
